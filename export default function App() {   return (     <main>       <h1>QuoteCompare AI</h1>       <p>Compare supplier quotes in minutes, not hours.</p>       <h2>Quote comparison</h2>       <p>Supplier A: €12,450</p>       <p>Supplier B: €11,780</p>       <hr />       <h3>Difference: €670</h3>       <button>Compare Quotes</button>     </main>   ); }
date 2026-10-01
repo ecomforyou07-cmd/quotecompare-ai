@@ -1,0 +1,14 @@
+export default function App() {
+  return (
+    <main>
+      <h1>QuoteCompare AI</h1>
+      <p>Compare supplier quotes in minutes, not hours.</p>
+      <h2>Quote comparison</h2>
+      <p>Supplier A: €12,450</p>
+      <p>Supplier B: €11,780</p>
+      <hr />
+      <h3>Difference: €670</h3>
+      <button>Compare Quotes</button>
+    </main>
+  );
+}
